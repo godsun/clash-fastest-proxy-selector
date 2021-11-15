@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/peixin/clash-fastest-proxy-selector.git"
+    "url": "https://github.com/godsun/clash-fastest-proxy-selector.git"
   },
-  "homepage": "https://github.com/peixin/clash-fastest-proxy-selector#readme",
+  "homepage": "https://github.com/godsun/clash-fastest-proxy-selector#readme",
   "author": {
-    "name": "liupeixin",
-    "email": "fengyi.mail@gmail.com"
+    "name": "lskonbar",
+    "email": "lskonbar@gmail.com"
   },
   "license": "MIT",
   "private": false,
